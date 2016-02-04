@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mardi Gras Corridor]]></title>
+        <description><![CDATA[Mardi Gras Corridor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 20:42:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[   MARDI    GRAS   CORRIDOR]]></title>
+            <description><![CDATA[<article><h1>   MARDI    GRAS   CORRIDOR</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30228b8d7167926f7607a781e881b85bda69001d.jpg"></article>]]></description>
+            <link>undefinedmardi-gras-corridor/index.html</link>
+            <guid isPermaLink="false">18ff0eb3-69c6-4498-b269-e15ab1efa23b</guid>
+            <pubDate>Thu, 04 Feb 2016 20:42:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
