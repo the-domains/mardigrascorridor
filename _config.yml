@@ -1,5 +1,7 @@
-favicon: null
-name: Mardi Gras Corridor
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +20,21 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.1787234
+  saturation: 0.9638298
   brandStrength: 0.7660663868300617
-  lightness: 0.2425532
+  lightness: 1
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  rhythmicContrast: 0.5106383
+  rhythmicContrast: 1
 typography_spectrum: 0.6085106
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0
+favicon: null
+name: Mardi Gras Corridor
